@@ -1,4 +1,4 @@
-// Gabriela Terrazas (U54107257?
+// Gabriela Terrazas (U54107257)
 
 class Car {
     // Constructor initializes make and speed properties
